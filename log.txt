@@ -1,0 +1,28 @@
+2024.07.24 10:20:36 ➾ Hata: Message: invalid argument
+  (Session info: chrome=126.0.6478.183)
+Stacktrace:
+	GetHandleVerifier [0x00007FF73349EEB2+31554]
+	(No symbol) [0x00007FF733417EE9]
+	(No symbol) [0x00007FF7332D8559]
+	(No symbol) [0x00007FF7332C059E]
+	(No symbol) [0x00007FF7332BEAB5]
+	(No symbol) [0x00007FF7332BF2AC]
+	(No symbol) [0x00007FF7332DB501]
+	(No symbol) [0x00007FF73336D33E]
+	(No symbol) [0x00007FF73334D02A]
+	(No symbol) [0x00007FF73336C977]
+	(No symbol) [0x00007FF73334CDD3]
+	(No symbol) [0x00007FF73331A33B]
+	(No symbol) [0x00007FF73331AED1]
+	GetHandleVerifier [0x00007FF7337A8B2D+3217341]
+	GetHandleVerifier [0x00007FF7337F5AF3+3532675]
+	GetHandleVerifier [0x00007FF7337EB0F0+3489152]
+	GetHandleVerifier [0x00007FF73354E786+750614]
+	(No symbol) [0x00007FF73342376F]
+	(No symbol) [0x00007FF73341EB24]
+	(No symbol) [0x00007FF73341ECB2]
+	(No symbol) [0x00007FF73340E17F]
+	BaseThreadInitThunk [0x00007FFDF1DF257D+29]
+	RtlUserThreadStart [0x00007FFDF2A4AF28+40]
+
+2024.07.24 10:20:36 ➾ Program sonlandı
